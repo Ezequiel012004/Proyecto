@@ -1,0 +1,32 @@
+/* @media (max-width:1200px){
+    flex-wrap: weap;
+} */
+*{
+    text-decoration: none;
+    margin: 0%;
+    padding: 0%;
+    color: black;
+
+}
+.container {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav {
+    display: flex;
+    
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding-left: 1%;
+    flex-direction: row;
+
+}
+a{
+    color: red;
+}

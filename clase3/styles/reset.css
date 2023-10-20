@@ -1,0 +1,19 @@
+/* es por etiqueta */
+header{
+    color: red;
+}
+/* es por clase */
+.fondo{
+    background-color: darkgoldenrod;
+}
+/* es por id */
+#letrac{
+    text-decoration-style: dashed;
+}
+/* es un reset de estilo */
+*{
+    margin: 0px;
+    font-family: none;
+    padding: 0%;
+    color: black;
+}
